@@ -1,2 +1,2 @@
 # Calculator
-Simple app to warm up with Github
+Simple Tkinter based Python application to warm up with navigating Github.
